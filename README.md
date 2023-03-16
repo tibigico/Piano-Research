@@ -1,4 +1,4 @@
-# Piano-Research
+# 
 
 使用モデル：LSTM
 学習回数：各楽曲1000回
